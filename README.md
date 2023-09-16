@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @df-skas
+- 👋 Hi, I’m @df-skas (AKA David Ferreira)
 - 👀 I’m interested in:
     - 4.0 industries,
     - PLC Automation, motion control,
