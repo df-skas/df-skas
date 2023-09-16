@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @df-skas
 - 👀 I’m interested in:
--    4.0 industries,
--    PLC Automation, motion control,
--    3D Printing, CNC, Robotics, kinematics,
--    data, INFLUXDB, Grafana,
--    Linux, Proxmox, Conteiners,
--    and many other things
-- 
+    - 4.0 industries,
+    - PLC Automation, motion control,
+    - 3D Printing, CNC, Robotics, kinematics,
+    - Data,MQTT INFLUXDB, Grafana,UNS.
+    - Linux, Proxmox, Containers, and many other things.
+      
 - 🌱 I’m currently learning Aveva PI (Former Osi PI).
 - 
 - 💞️ I’m looking to collaborate on anything with technology.
